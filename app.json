@@ -1,8 +1,10 @@
 {
     "name": "FileToLinkBot",
     "description": "Bot to provide links of different types of files you send.",
-    "website": "https://t.me/SDBOTs_inifinity",
-    "repository": "https://github.com/Sadew451/FileToLink",
+    "website": "https://t.me/movies_songs_tj",
+    "repository": "https://github.com/killersparrow0
+/
+FileToLink",
     "env": {
           "TG_BOT_TOKEN": {"description": "Your Bot's Token From BotFather Bot","required": true}
     },
