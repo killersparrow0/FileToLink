@@ -8,7 +8,7 @@ Is it a nuisance to send huge files to others.File To Link Bot is for you.This b
 
 ### 😋DEPLOY TO HEROKU
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sadew451/FileToLink)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/killersparrow0/FileToLink)
 
 ### 🔥 HOW TO USE THIS BOT 🔥
 
@@ -17,18 +17,3 @@ Is it a nuisance to send huge files to others.File To Link Bot is for you.This b
 - Bot will send a shorten link of that file to you.
 ```
 
-### 🔥 OWNER  &  CREATOR 🔥
-
-```
-Sadew Jayasekara
- 
-©️2021 SDBOTs All Rights Reserved
- 
-Powered by #AAQ forked by @SDBOTsZ
-```
-
-### ♨️VOTE OF THANKS
-
-```
-Jainam
-```
